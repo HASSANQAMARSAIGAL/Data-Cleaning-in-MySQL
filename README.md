@@ -20,7 +20,6 @@ This project involved cleaning and standardizing a dataset of company layoffs us
 - Applied string functions and data type conversion for standardization
 - Improved data quality for better downstream analysis
 
-## 📁 File
-- `Data Cleaning Project.sql`
+
 
 
